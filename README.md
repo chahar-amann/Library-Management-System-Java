@@ -43,6 +43,6 @@ java Main
 
 ![Add Book](screenshots/add-book.png)
 
-### Searching Book
+### Issue Book
 
 ![Issue](screenshots/issue-book.png)
